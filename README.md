@@ -28,3 +28,5 @@ No Backend foi utilizado Java com Spring Boot e Spring Data JPA. Ele foi divido 
 ## Testes
 
 Foram criados testes unitários para verificar o funcionamento das entidades Endereco e Pessoa com JUnit 5 e Mockito. Para validar os endpoints foram criados uma coleção contendo todas as requisições realizadas via Postman.
+
+- Coleção Postman: https://github.com/kalebetavares/attornatus-teste-api/tree/main/testesApi
