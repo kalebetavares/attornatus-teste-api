@@ -13,13 +13,13 @@ As tecnologias utilizadas foram:
 
 ## Objetivos Propostos:
 
-•	Criar uma pessoa
-•	Editar uma pessoa
-•	Consultar uma pessoa
-•	Listar pessoas
-•	Criar endereço para pessoa
-•	Listar endereços da pessoa
-•	Poder informar qual endereço é o principal da pessoa  
+-	Criar uma pessoa
+-	Editar uma pessoa
+-	Consultar uma pessoa
+-	Listar pessoas
+-	Criar endereço para pessoa
+-	Listar endereços da pessoa
+-	Poder informar qual endereço é o principal da pessoa  
 
 ## Organização do Projeto
 
